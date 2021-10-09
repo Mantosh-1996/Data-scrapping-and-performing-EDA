@@ -26,7 +26,7 @@ _____________________________________*********************In Process************
 
 -Using Selenium to automate this task and fetch data on a regular basis
 -Creating a Time series data on the products prices on the months of the quarter
--Using inferential Probability to check if these statements are actually true. 
+-Using inferential startistics to check if these statements are actually true. 
 {Electronic accesories have a wide market cap they are available in very low price and the have very high pricing. They also provide the wide range of discounts too.
 We can see that Headphones have the highest discount rates and the price vary from (very low to high)
 Mobile phones are not reasonable as comapred to other electronics and there discounts are low, but few electronic accesories have the least discount percentages.}
